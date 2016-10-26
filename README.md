@@ -30,6 +30,9 @@
 ### F
 - [FastMail](https://github.com/saenzramiro/rambox-services-contrib/issues/6)
 
+### H
+- [Habitica](https://github.com/saenzramiro/rambox-services-contrib/issues/8)
+
 ### T
 - [Twitch](https://github.com/saenzramiro/rambox-services-contrib/issues/1)
 
