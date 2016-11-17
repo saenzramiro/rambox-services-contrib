@@ -33,6 +33,9 @@
 ### H
 - [Habitica](https://github.com/saenzramiro/rambox-services-contrib/issues/8)
 
+### J
+- [Jandi](https://github.com/saenzramiro/rambox-services-contrib/issues/10)
+
 ### T
 - [Twitch](https://github.com/saenzramiro/rambox-services-contrib/issues/1)
 
