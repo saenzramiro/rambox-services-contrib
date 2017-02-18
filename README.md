@@ -38,6 +38,7 @@
 
 ### T
 - [Twitch](https://github.com/saenzramiro/rambox-services-contrib/issues/1)
+- [Threema](https://github.com/saenzramiro/rambox-services-contrib/issues/12)
 
 ### Z
 - [Zimbra](https://github.com/saenzramiro/rambox-services-contrib/issues/3)
