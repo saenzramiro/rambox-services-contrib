@@ -37,6 +37,9 @@
 ### J
 - [Jandi](https://github.com/saenzramiro/rambox-services-contrib/issues/10)
 
+### S
+- [Spectrum Chat](https://github.com/saenzramiro/rambox-services-contrib/issues/15)
+
 ### T
 - [Twitch](https://github.com/saenzramiro/rambox-services-contrib/issues/1)
 - [Threema](https://github.com/saenzramiro/rambox-services-contrib/issues/12)
