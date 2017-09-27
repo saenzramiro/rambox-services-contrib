@@ -43,6 +43,8 @@
 ### T
 - [Twitch](https://github.com/saenzramiro/rambox-services-contrib/issues/1)
 - [Threema](https://github.com/saenzramiro/rambox-services-contrib/issues/12)
+- [Trello](https://github.com/saenzramiro/rambox-services-contrib/issues/18)
+- [Todoist](https://github.com/saenzramiro/rambox-services-contrib/issues/19)
 
 ### Z
 - [Zimbra](https://github.com/saenzramiro/rambox-services-contrib/issues/3)
