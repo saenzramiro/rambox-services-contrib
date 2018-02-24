@@ -37,6 +37,9 @@
 ### J
 - [Jandi](https://github.com/saenzramiro/rambox-services-contrib/issues/10)
 
+### K
+- [Google Keep](https://github.com/saenzramiro/rambox/issues/1481)
+
 ### S
 - [Spectrum Chat](https://github.com/saenzramiro/rambox-services-contrib/issues/15)
 
