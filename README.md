@@ -38,7 +38,7 @@
 - [Jandi](https://github.com/saenzramiro/rambox-services-contrib/issues/10)
 
 ### M
-- [Google Play Music](https://play.google.com/music/listen)
+- [Google Play Music](https://github.com/saenzramiro/rambox-services-contrib/issues/26)
 
 ### S
 - [Spectrum Chat](https://github.com/saenzramiro/rambox-services-contrib/issues/15)
