@@ -30,6 +30,7 @@
 ### F
 - [Facebook Messenger for Pages](https://github.com/saenzramiro/rambox-services-contrib/issues/14)
 - [FastMail](https://github.com/saenzramiro/rambox-services-contrib/issues/6)
+- [Fiverr](https://github.com/saenzramiro/rambox-services-contrib/issues/32)
 
 ### H
 - [Habitica](https://github.com/saenzramiro/rambox-services-contrib/issues/8)
